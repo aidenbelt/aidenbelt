@@ -40,6 +40,10 @@
   
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url]
 
+#### Connect with Belt Solutions Ltd. ####
+
+[![LinkedIn][linkedin-shield]][company-url] 
+
 <a name="work-examples"></a>
 <hr>
 
@@ -135,5 +139,7 @@
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/aidenbelt
+[company-url]: https://linkedin.com/company/beltsolns
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:aidenlevin@gmail.com
+
