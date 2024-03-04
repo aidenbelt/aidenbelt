@@ -42,7 +42,7 @@
 
 #### Connect with Belt Solutions Ltd. ####
 
-[![LinkedIn][linkedin-shield]][company-url] 
+[![LinkedIn][linkedin-shield]][company-url]  [![CoMail][comail-shield]][comail-url]
 
 <a name="work-examples"></a>
 <hr>
@@ -142,4 +142,6 @@
 [company-url]: https://linkedin.com/company/beltsolns
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:aidenlevin@gmail.com
+[comail-shield]: https://img.shields.io/badge/Email-beltsolutionsltd?style=for-the-badge&color=2b6031
+[comail-url]: mailto:aiden@beltsolutionsltd.com
 
