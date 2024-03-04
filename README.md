@@ -20,7 +20,7 @@
 ### Educational Background: ###
 
 #### Master of Science, Real Estate and the Built Environment (June 2025) ####
-* **GPA: 4.0**
+* **Major GPA: 4.0**
 * **Hornbeck Scholar**
 * **Relevant Courses:** Fundamentals of REBE, Legal Aspects of REBE
 
