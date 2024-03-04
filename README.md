@@ -49,7 +49,7 @@
 ## Work Examples
 
 ### R - Markdown Dashboard ###
-  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard
+  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard.
   * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
 
 ### Python - Fantasy Hockey Multi-Variable Binary Optimization ###
@@ -59,6 +59,10 @@
 ### Python - Shipping Optimization & Simulation ###
 * Minimizing costs for a hypothetical supply chain problem, simulating changing prices from production to distribution to warehouse.
 * [Shipping Optimization-Simulation.ipynb](https://github.com/aidenbelt/Project-Examples/blob/5333c338b401a4c7cf5857c9f7fe5eb2632d29e1/Shipping%20Optimization-Simulation.ipynb)
+
+### Python - Production Optimization & Centrality ###
+* Maximizing profit for a hypothetical ice cream store, utilizing sequential constraints, fixed and variable costs, and optimizing store location.
+* [Production Optimization-Centrality.ipynb](https://github.com/aidenbelt/Project-Examples/blob/5333c338b401a4c7cf5857c9f7fe5eb2632d29e1/Production%20Optimization-Centrality.ipynb)
 
 <a name="work-experience"></a>
 <hr>
