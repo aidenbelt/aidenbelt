@@ -48,17 +48,14 @@
 
 ## Work Examples
 
-* **Project 1**
-    * Brief description 
-    * Problem addressed
-    * Technologies used
-    * [Link to code repo] 
-    * Results/Insights (quantify if possible)
-    * Project 1 Image: ./images/project1_image.png  
-* **Project 2** 
-    * (Follow the same format)
-* **Relevant Coursework**
-    * If projects are limited, showcase classwork demonstrating skills. 
+### R Markdown Dashboard ###
+  * Comparing several quantative analyses to housing renovation and customer data in an R Markdown dashboard
+  * Problem addressed
+  * Technologies used
+  * [Link to code repo] 
+  * Results/Insights (quantify if possible)
+  * Project 1 Image: ./images/project1_image.png  
+
 
 <a name="work-experience"></a>
 <hr>
@@ -112,6 +109,7 @@
 * k-NN
 * Validation
 * Machine Learning
+* Neural Network
 * Naïve Bayes
 
 #### Cloud Technologies: #### 
