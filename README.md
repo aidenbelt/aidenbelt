@@ -78,7 +78,7 @@
 
 ## Skills
 
-**Technical Skills**
+### Technical Skills ###
 
 **Programming:** Python, R, SQL, C#
 
@@ -90,21 +90,17 @@
 
 **Version Control:** Git
 
-**Soft Skills**
-Communication (written and verbal)
-
-Problem-solving
-
-Collaboration
-
-Critical thinking
-
-Time Management
+### Soft Skills ###
+* Communication (written and verbal)
+* Problem-solving
+* Collaboration
+* Critical thinking
+* Time Management
 
 <a name="contact"></a> 
 <hr> 
 
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#readme-top) 
+<a href="#readme-top">Top of Page</a>
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/aidenbelt
