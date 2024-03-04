@@ -26,10 +26,12 @@
 * **Educational Background:**
 * Master of Science, Real Estate and the Built Environment (June 2025)
 * Bachelor of Science Business Administration, Business Information & Analytics (June 2024)
-* **Interests:** Areas within analytics that excite you (data visualization, predictive modeling, specific industries, etc.)
-* **Connect with Me:** 
-    * LinkedIn: [Your Profile Link]
-    * Email: mailto:[Your Email Address]  
+* **Interests:**
+* Data Architecture
+* Predictive Modeling
+* Simulation
+* Data/Text Mining & Analysis
+* **Connect with Me:** [![LinkedIn][linkedin-shield]][linkedin-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <a name="work-examples"></a>
 <hr>
