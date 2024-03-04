@@ -56,14 +56,12 @@
 
 ## Work Experience
 
-* **Company Name | Position Title | Dates**
-    * **Project/Task 1:** 
-        * Description
-        * Technologies used
-        * Accomplishments and outcomes
-        * Soft skills demonstrated
-   * **Project/Task 2:**
-       * (Follow the same format)
+* **Belt Solutions Ltd. | Principal | February 2024 - Present**
+* Continuously researching emerging trends and best practices in data-driven decision-making, bringing new energy, and approaching your data challenges innovatively.
+* Quickly learning and adapting to your specific needs and industry, and delivering high-quality results at a friendly price point.
+* Designing and implementing efficient, scalable data structures to unlock key insights into your information.
+* Discover actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
+* **University of Denver, Daniels College of Business | Principal | February 2024 - Present**
 
 <a name="skills"></a>
 <hr>
