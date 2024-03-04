@@ -73,10 +73,10 @@
 ## Skills
 
 * **Technical Skills**
-    * **Programming:** Python, R, SQL, etc. (Specify proficiency levels if desired)
-    * **Data Analysis Tools:** Excel, Tableau, Power BI, etc.
-    * **Statistical Methods:** (List areas of knowledge)
-    * **Cloud Technologies** (If applicable): AWS, Azure, GCP
+    * **Programming:** Python, R, SQL, C#
+    * **Software:** Microsoft Office Specialist, Visual Studio, Tableau, Power BI, SSMS, Alteryx, JMP
+    * **Statistical Methods:** Regression, Decision Trees, k-NN, Validation, Machine Learning, Naïve Bayes
+    * **Cloud Technologies** Azure
     * **Version Control:** Git
 * **Soft Skills**
     * Communication (written and verbal)
