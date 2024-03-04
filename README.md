@@ -19,8 +19,8 @@
 ## About Me
 
 **Educational Background:**
-* Master of Science, Real Estate and the Built Environment (June 2025)
-* Bachelor of Science Business Administration, Business Information & Analytics (June 2024)
+* Master of Science, **Real Estate and the Built Environment** (June 2025)
+* Bachelor of Science Business Administration, **Business Information & Analytics** (June 2024)
 
 **Interests:**
 * Data Architecture
