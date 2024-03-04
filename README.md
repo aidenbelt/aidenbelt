@@ -48,14 +48,17 @@
 
 ## Work Examples
 
-### R Markdown Dashboard ###
+### R - Markdown Dashboard ###
   * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard
   * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
 
-### R Markdown Dashboard ###
-  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard
-  * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
+### Python - Fantasy Hockey Multi-Variable Binary Optimization ###
+  * Using glpk binary solver to optimize a fantasy hockey problem with over 200 variables, complicated constraints, and data cleaning. 
+  * [Multi-Variable Optimization.ipynb](https://github.com/aidenbelt/Project-Examples/blob/5333c338b401a4c7cf5857c9f7fe5eb2632d29e1/Multi-Variable%20Optimization.ipynb)
 
+### Python - Shipping Optimization & Simulation ###
+* Minimizing costs for a hypothetical supply chain problem, simulating changing prices from production to distribution to warehouse.
+* [Shipping Optimization-Simulation.ipynb](https://github.com/aidenbelt/Project-Examples/blob/5333c338b401a4c7cf5857c9f7fe5eb2632d29e1/Shipping%20Optimization-Simulation.ipynb)
 
 <a name="work-experience"></a>
 <hr>
