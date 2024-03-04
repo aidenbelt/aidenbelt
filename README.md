@@ -49,7 +49,7 @@
 ## Work Examples
 
 ### R - Markdown Dashboard ###
-  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard.
+  * Comparing several quantative analyses conducted in JMP to residential heating system renovations and customer data in an R Markdown dashboard.
   * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
 
 ### Python - Fantasy Hockey Multi-Variable Binary Optimization ###
