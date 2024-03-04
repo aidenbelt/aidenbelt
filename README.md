@@ -9,7 +9,6 @@
 <li><a href="#work-examples">Work Examples</a></li>
 <li><a href="#work-experience">Work Experience</a></li>
 <li><a href="#skills">Skills</a></li>
-<li><a href="#contact">Contact</a></li>
 </ol>
 </details>
 
@@ -130,7 +129,6 @@
 * Critical thinking
 * Time Management
 
-<a name="contact"></a> 
 <hr> 
 
 <a href="#readme-top">Top of Page</a>
