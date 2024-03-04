@@ -60,8 +60,11 @@
   * [PowerBI Reporting](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/dmBoydLakeMarina%20Dashboards.pdf)
 
 ### C#/SQL - Visual Studio Windows Form Interacting with Database & Reporting ###
-  * Creating multiple windows forms used to interact with database in real time with C# in Visual Studio (video), Visual Studio reporting examples included (images).
-  * [![Video Thumbnail](https://github.com/aidenbelt/Project-Examples/blob/d3c512394feeea8a17c001e6c80ca163cd9c81c1/erdBoydLakeMarina_belt.png)(https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=OHvfbWPYX3Y)
+  * Creating multiple windows forms used to interact with database in real time with C# in Visual Studio (video), Visual Studio reporting examples included.
+  * [Windows Form Database Interaction](https://www.youtube.com/watch?v=OHvfbWPYX3Y) (Video)
+  * [Boat & Employee Revenue Report](https://github.com/aidenbelt/Project-Examples/blob/aec81ac34a44ad89b92532ddfb41013fc06d4743/Boat%20%26%20Employee%20Revenue.png) Report detailing revenue assoicated with employees and rental boats, boat names are given with tooltips when area of pie chart is hovered over. 
+  * [Customer Spending Report](https://github.com/aidenbelt/Project-Examples/blob/aec81ac34a44ad89b92532ddfb41013fc06d4743/Customer%20Spending.png) Report detailing customer spending by category. Like all other reports, results can be filtered by searching desired ID. 
+  * [Product Category (Marine Electronics)](https://github.com/aidenbelt/Project-Examples/blob/aec81ac34a44ad89b92532ddfb41013fc06d4743/Product%20Category%201.png), [Product Category (Boat Cleaning)](https://github.com/aidenbelt/Project-Examples/blob/aec81ac34a44ad89b92532ddfb41013fc06d4743/Product%20Category%202.png) Multi-page report detailing information about product categories, two different categories displayed as example. 
 
 ### R - Markdown Dashboard ###
   * Comparing several quantative analyses conducted in JMP to residential heating system renovations and customer data in an R Markdown dashboard.
