@@ -82,6 +82,13 @@
 * Maximizing profit for a hypothetical ice cream store, utilizing sequential constraints, fixed and variable costs, and optimizing store location.
 * [Production Optimization-Centrality.ipynb](https://github.com/aidenbelt/Project-Examples/blob/5333c338b401a4c7cf5857c9f7fe5eb2632d29e1/Production%20Optimization-Centrality.ipynb)
 
+### Python - Predictive Text Mining in Alteryx ###
+* Using Alteryx and Python nodes to train, compare, and test predictive models using text mining and analysis.
+* [Predicting Topic](https://github.com/aidenbelt/Project-Examples/blob/54addf80702c7654ddffd7092d2f98c96ef5c412/4.png) Using topic modeling and model comparison to sort new reviews into pre-defined topics.
+* [Vectorizing Text](https://github.com/aidenbelt/Project-Examples/blob/54addf80702c7654ddffd7092d2f98c96ef5c412/5.png) Using text cleaning and Python nodes to vectorize text using several different models.
+* [Vectorizing & Naïve Bayes](https://github.com/aidenbelt/Project-Examples/blob/54addf80702c7654ddffd7092d2f98c96ef5c412/6.png) Comparing a vectorizer model to a Naïve Bayes model.
+* [Regression Model](https://github.com/aidenbelt/Project-Examples/blob/54addf80702c7654ddffd7092d2f98c96ef5c412/7.png) Comparing regression model trained with text against a model trained without text. 
+
 <a name="work-experience"></a>
 <hr>
 
