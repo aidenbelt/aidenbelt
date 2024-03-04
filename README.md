@@ -61,7 +61,12 @@
 * Quickly learning and adapting to your specific needs and industry, and delivering high-quality results at a friendly price point.
 * Designing and implementing efficient, scalable data structures to unlock key insights into your information.
 * Discover actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
-* **University of Denver, Daniels College of Business | Principal | February 2024 - Present**
+* **University of Denver, Daniels College of Business | Teaching Assistant | September 2023 - Present**
+* Supported the professor in comprehensive, personalized attention to students in database design and SQL.
+* Facilitated understanding and growth in foundational data management and use concepts
+* **Flatiron Construction Corp. | Treasury Intern | March 2023 - August 2023**
+
+
 
 <a name="skills"></a>
 <hr>
