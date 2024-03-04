@@ -59,6 +59,10 @@
   * [Excel Reporting Weekend Use](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/Weekend%20Use.pdf)
   * [PowerBI Reporting](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/dmBoydLakeMarina%20Dashboards.pdf)
 
+### C#/SQL - Visual Studio Windows Form Interacting with Database & Reporting ###
+  * Creating multiple windows forms used to interact with database in real time with C# in Visual Studio (video), Visual Studio reporting examples included (images).
+  * [![Video Thumbnail](https://github.com/aidenbelt/Project-Examples/blob/d3c512394feeea8a17c001e6c80ca163cd9c81c1/erdBoydLakeMarina_belt.png)(https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=OHvfbWPYX3Y)
+
 ### R - Markdown Dashboard ###
   * Comparing several quantative analyses conducted in JMP to residential heating system renovations and customer data in an R Markdown dashboard.
   * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
