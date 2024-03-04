@@ -31,7 +31,8 @@
 * Predictive Modeling
 * Simulation
 * Data/Text Mining & Analysis
-* **Connect with Me:** [![LinkedIn][linkedin-shield]][linkedin-url] [![LinkedIn][linkedin-shield]][linkedin-url]
+* **Connect with Me:**
+* [![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url]
 
 <a name="work-examples"></a>
 <hr>
@@ -90,3 +91,8 @@
 * LinkedIn: [Your LinkedIn Profile Link] 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#readme-top) 
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/aidenbelt
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:aidenlevin@gmail.com
