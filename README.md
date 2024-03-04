@@ -78,25 +78,31 @@
 
 ## Skills
 
-* **Technical Skills**
-    * **Programming:** Python, R, SQL, C#
-    * **Software:** Microsoft Office Specialist, Visual Studio, Tableau, Power BI, SSMS, Alteryx, JMP
-    * **Statistical Methods:** Regression, Decision Trees, k-NN, Validation, Machine Learning, Naïve Bayes
-    * **Cloud Technologies** Azure
-    * **Version Control:** Git
-* **Soft Skills**
-    * Communication (written and verbal)
-    * Problem-solving
-    * Collaboration
-    * Critical thinking
+**Technical Skills**
+
+**Programming:** Python, R, SQL, C#
+
+**Software:** [Microsoft Office Specialist](https://www.credly.com/badges/1041ce88-9b63-4caa-81a7-4aea851908ad), Visual Studio, Tableau, Power BI, SSMS, Alteryx, JMP
+
+**Statistical Methods:** Regression, Decision Trees, k-NN, Validation, Machine Learning, Naïve Bayes
+
+**Cloud Technologies** Azure
+
+**Version Control:** Git
+
+**Soft Skills**
+Communication (written and verbal)
+
+Problem-solving
+
+Collaboration
+
+Critical thinking
+
+Time Management
 
 <a name="contact"></a> 
 <hr> 
-
-## Contact
-
-* Email: mailto:[Your Email Address]
-* LinkedIn: [Your LinkedIn Profile Link] 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#readme-top) 
 
