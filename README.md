@@ -23,7 +23,9 @@
 
 ## About Me
 
-* **Educational Background:** Relevant degrees, institutions, areas of focus
+* **Educational Background:**
+* Master of Science, Real Estate and the Built Environment (June 2025)
+* Bachelor of Science Business Administration, Business Information & Analytics (June 2024)
 * **Interests:** Areas within analytics that excite you (data visualization, predictive modeling, specific industries, etc.)
 * **Connect with Me:** 
     * LinkedIn: [Your Profile Link]
