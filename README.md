@@ -18,17 +18,28 @@
 
 ## About Me
 
-**Educational Background:**
-* Master of Science, **Real Estate and the Built Environment** (June 2025)
-* Bachelor of Science Business Administration, **Business Information & Analytics** (June 2024)
+### Educational Background: ###
 
-**Interests:**
+#### Master of Science, Real Estate and the Built Environment (June 2025) ####
+* **GPA: 4.0**
+* **Hornbeck Scholar**
+* **Relevant Courses:** Fundamentals of REBE, Legal Aspects of REBE
+
+#### Bachelor of Science Business Administration, Business Information & Analytics (June 2024) ####
+* **Major GPA: 4.0**
+* **Hornbeck Scholar**
+* **Recipient of Daniels Student Spotlight**
+* **Relevant Courses:** Automating Business Processes, Data Mining & Visualization, Data Warehousing & Business Intelligence, Project Management & Simulation, Complex Data Analytics
+
+
+
+#### Interests: ####
 * Data Architecture
 * Predictive Modeling
 * Simulation
 * Data/Text Mining & Analysis
 
-**Connect with Me:**
+#### Connect with Me: ####
   
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url]
 
@@ -54,21 +65,21 @@
 
 ## Work Experience
 
-**Belt Solutions Ltd. | Principal | February 2024 - Present**
+#### Belt Solutions Ltd. | Principal | February 2024 - Present ####
 * Continuously researching emerging trends and best practices in data-driven decision-making, bringing new energy, and approaching your data challenges innovatively.
 * Quickly learning and adapting to your specific needs and industry, and delivering high-quality results at a friendly price point.
 * Designing and implementing efficient, scalable data structures to unlock key insights into your information.
 * Discover actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
 
-**University of Denver, Daniels College of Business | Teaching Assistant | September 2023 - Present**
+#### University of Denver, Daniels College of Business | Teaching Assistant | September 2023 - Present #### 
 * Supported the professor in comprehensive, personalized attention to students in database design and SQL.
 * Facilitated understanding and growth in foundational data management and use concepts.
 
-**Flatiron Construction Corp. | Treasury Intern | March 2023 - August 2023**
+#### Flatiron Construction Corp. | Treasury Intern | March 2023 - August 2023 #### 
 * Contributed to the implementation of a treasury management system by verifying record-keeping, testing functionality, and providing recommendations for system improvement.
 * Analyzed financial data and prepared reports to assist senior management in developing effective cash management strategies.
 
-**Zeta Beta Tau, Iota | Finance Director | February 2022 - February 2023**
+#### Zeta Beta Tau, Iota | Finance Director | February 2022 - February 2023 ####
 * Responsibly managed chapter budget, ~$60,000 quarterly, meeting savings/event goals.
 * Communicated with executives/advisors locally and nationally, facilitating efficient programming.
 * Took initiative on non-positional tasks, leading to greater chapter engagement.
@@ -80,15 +91,34 @@
 
 ### Technical Skills ###
 
-**Programming:** Python, R, SQL, C#
+#### Programming: #### 
+* Python
+* R
+* SQL
+* C#
 
-**Software:** [Microsoft Office Specialist](https://www.credly.com/badges/1041ce88-9b63-4caa-81a7-4aea851908ad), Visual Studio, Tableau, Power BI, SSMS, Alteryx, JMP
+#### Software: #### 
+* [Microsoft Office Specialist](https://www.credly.com/badges/1041ce88-9b63-4caa-81a7-4aea851908ad)
+* Visual Studio
+* Tableau
+* Power BI
+* SSMS
+* Alteryx
+* JMP
 
-**Statistical Methods:** Regression, Decision Trees, k-NN, Validation, Machine Learning, Naïve Bayes
+#### Statistical Methods: #### 
+* Regression
+* Decision Tree
+* k-NN
+* Validation
+* Machine Learning
+* Naïve Bayes
 
-**Cloud Technologies** Azure
+#### Cloud Technologies: #### 
+* Azure
 
-**Version Control:** Git
+#### Version Control: #### 
+* Git
 
 ### Soft Skills ###
 * Communication (written and verbal)
