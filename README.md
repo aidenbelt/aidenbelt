@@ -1,11 +1,6 @@
 <a name="readme-top"></a>
 
-## Welcome! This is a little about me and a sampling of my work.
-
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#about-me)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#work-examples)
-[<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#work-experience)
-[<img src="https://user-images.githubusercontent.com/91146906/162140965-cf707805-9abd-43f7-8314-4f96794c44dc.svg" height="35"/>](#skills)
+## Welcome!
 
 <details>
 <summary>Table of Contents</summary>
@@ -63,10 +58,14 @@
 * Discover actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
 * **University of Denver, Daniels College of Business | Teaching Assistant | September 2023 - Present**
 * Supported the professor in comprehensive, personalized attention to students in database design and SQL.
-* Facilitated understanding and growth in foundational data management and use concepts
+* Facilitated understanding and growth in foundational data management and use concepts.
 * **Flatiron Construction Corp. | Treasury Intern | March 2023 - August 2023**
-
-
+* Contributed to the implementation of a treasury management system by verifying record-keeping, testing functionality, and providing recommendations for system improvement.
+* Analyzed financial data and prepared reports to assist senior management in developing effective cash management strategies.
+* **Zeta Beta Tau, Iota | Finance Director | February 2022 - February 2023**
+* Responsibly managed chapter budget, ~$60,000 quarterly, meeting savings/event goals.
+* Communicated with executives/advisors locally and nationally, facilitating efficient programming.
+* Took initiative on non-positional tasks, leading to greater chapter engagement.
 
 <a name="skills"></a>
 <hr>
