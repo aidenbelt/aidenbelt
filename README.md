@@ -49,12 +49,12 @@
 ## Work Examples
 
 ### R Markdown Dashboard ###
-  * Comparing several quantative analyses to housing renovation and customer data in an R Markdown dashboard
-  * Problem addressed
-  * Technologies used
-  * [Link to code repo] 
-  * Results/Insights (quantify if possible)
-  * Project 1 Image: ./images/project1_image.png  
+  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard
+  * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
+
+### R Markdown Dashboard ###
+  * Comparing several quantative analyses to housing heating renovation and customer data in an R Markdown dashboard
+  * [View Dashboard](https://aidenbelt.shinyapps.io/dashboard_belt/)
 
 
 <a name="work-experience"></a>
