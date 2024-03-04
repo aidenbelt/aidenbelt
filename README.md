@@ -31,8 +31,6 @@
 * **Recipient of Daniels Student Spotlight**
 * **Relevant Courses:** Automating Business Processes, Data Mining & Visualization, Data Warehousing & Business Intelligence, Project Management & Simulation, Complex Data Analytics
 
-
-
 #### Interests: ####
 * Data Architecture
 * Predictive Modeling
@@ -70,10 +68,10 @@
 ## Work Experience
 
 #### Belt Solutions Ltd. | Principal | February 2024 - Present ####
-* Continuously researching emerging trends and best practices in data-driven decision-making, bringing new energy, and approaching your data challenges innovatively.
-* Quickly learning and adapting to your specific needs and industry, and delivering high-quality results at a friendly price point.
-* Designing and implementing efficient, scalable data structures to unlock key insights into your information.
-* Discover actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
+* Continuously researching emerging trends and best practices in data-driven decision-making, bringing new energy, and approaching  data challenges innovatively.
+* Quickly learning and adapting to  specific needs and industry, and delivering high-quality results at a friendly price point.
+* Designing and implementing efficient, scalable data structures to unlock key insights into information.
+* Discovering actionable insights using a blend of quantitative methods (statistics, modeling) and qualitative research (surveys, textual analysis).
 
 #### University of Denver, Daniels College of Business | Teaching Assistant | September 2023 - Present #### 
 * Supported the professor in comprehensive, personalized attention to students in database design and SQL.
