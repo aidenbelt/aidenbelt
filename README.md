@@ -52,9 +52,9 @@
 ### SQL - Database, ETL, Data Warehouse, Reporting ###
   * Creating a database, creating data warehouse, using ETL process to load information into fact/dimension tables in a star-schema data warehouse, integrating database with PowerBI and Excel PowerPivot.
   * [Create Database](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/CreateDatabase.sql)
-  * [Creating Data Warehouse](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/Creating%20Datamart.sql)
+  * [Create Data Warehouse](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/Creating%20Datamart.sql)
   * [Overall ETL Process](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/ETL%20Overview.png)
-  * [Slowly Changing Dimension Example](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/ETL%20Slowly%20Changing%20Dimension.png) (Warining is a result of text fields being shortened) 
+  * [Slowly Changing Dimension Example](https://github.com/aidenbelt/Project-Examples/blob/de53867f15d53e5887e07679f78f53693b066a0c/ETL%20Slowly%20Changing%20Dimension.png) (Warning is a result of text fields being shortened) 
   * [Excel Reporting Rental Frequency](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/Rental%20Frequency.pdf)
   * [Excel Reporting Weekend Use](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/Weekend%20Use.pdf)
   * [PowerBI Reporting](https://github.com/aidenbelt/Project-Examples/blob/0981fd72e8b301e0ee861b5806992a6431651be4/dmBoydLakeMarina%20Dashboards.pdf)
