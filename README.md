@@ -151,11 +151,13 @@
 * Git
 
 ### Soft Skills ###
-* Communication (written and verbal)
-* Problem-solving
-* Collaboration
-* Critical thinking
-* Time Management
+* Experience communicating with common enterprise-level software (Outlook, Teams, Slack, Zoom, Webex, and more)
+* Critical attention to detail
+* Curious to seek and deliver excess value
+* Prioritizing efficiency of myself, programs, and others
+* Problem-solving in project, team, and personal spheres
+* Effectively utilizing collaboration time
+* Managing diverse timelines, projects, and communication
 
 <hr> 
 
