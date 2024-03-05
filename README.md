@@ -125,6 +125,7 @@
 * R
 * SQL
 * C#
+* VBA
 
 #### Software: #### 
 * [Microsoft Office Specialist](https://www.credly.com/badges/1041ce88-9b63-4caa-81a7-4aea851908ad)
